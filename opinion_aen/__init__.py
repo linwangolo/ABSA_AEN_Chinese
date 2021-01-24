@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # file: __init__.py
-# author: songyouwei <youwei0314@gmail.com>
-# Copyright (C) 2018. All Rights Reserved.
+# author: linwang <linwang071993@gmail.com>
+# Copyright (C) 2019. All Rights Reserved.
 
 import numpy as np
 import re
